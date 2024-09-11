@@ -1,6 +1,5 @@
 ---
-import ProjectsSection from "../components/ProjectsSection.svelte";
-import Menu from "../components/menu.svelte";
+import Index from "../components/index.svelte";
 ---
 
 <script>
@@ -119,34 +118,6 @@ import Menu from "../components/menu.svelte";
     <title>Enable3d Ammojs Astro Example.</title>
   </head>
   <body class="bg-black">
-    <div
-      class="absolute font-serif w-full h-full flex place-items-center justify-between text-white"
-    >
-      <section class="xl:ml-40 text-center w-full xl:w-2/6 grid gap-y-10">
-        
-        <div>
-          <h1 class="text-9xl">
-            <span class="text-6xl">Hello i'm</span> Vital
-          </h1>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione,
-            unde!
-          </p>
-        </div>
-        <div class="flex justify-evenly">
-          <a href="#"><img src="x.svg" alt="x" title="x" class="w-8" /></a>
-          <a href="#"><img src="g.svg" alt="x" title="x" class="w-8" /></a>
-          <a href="#"><img src="l.svg" alt="x" title="x" class="w-8" /></a>
-        </div>
-      </section>
-
-      <section class="xl:mr-40 xl:w-2/6">
-        <ProjectsSection client:only  />
-      </section>
-    </div>
-
-    <div class="absolute bottom-10 w-full flex justify-center">
-      <Menu client:only />
-    </div>
+    <Index client:only />
   </body>
 </html>
