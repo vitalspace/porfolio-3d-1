@@ -39,7 +39,7 @@
       title: "MoebanDB",
       description:
         "A JSON Database system designed to store and manipulate data in JSON format.",
-      img: "https://private-user-images.githubusercontent.com/29004070/274068061-372ced48-4be8-48c3-885e-e690916a7129.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjYwOTE0NzMsIm5iZiI6MTcyNjA5MTE3MywicGF0aCI6Ii8yOTAwNDA3MC8yNzQwNjgwNjEtMzcyY2VkNDgtNGJlOC00OGMzLTg4NWUtZTY5MDkxNmE3MTI5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTExVDIxNDYxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc1MGU4N2ZlNTg1MzQyNmFkNTVjMzJkYjZhMmIwYmIxYmI1NjdkZWQyMGVhNzVkNTBiOGMyNjc0MTdlZWU0ZmMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.mcQyFrrG_Dtvz1qH-GBhv2i6k_qH8Zlvvx6D0nS9Y-o",
+      img: "moebandb.png",
       tags: ["Zig", "JSON", "ODM"],
       url: "https://github.com/larengine/moeban",
       technologies: [
